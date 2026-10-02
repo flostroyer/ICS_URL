@@ -19,7 +19,21 @@ BEHALTE_NOTIZEN_OHNE_GRUPPE = True
 GRUPPEN_MUSTER = r"\bLP\d+\b"
 
 if quelle.startswith("http"):
-    roh = urllib.request.urlopen(quelle).read()
+    import time
+    anfrage = urllib.request.Request(quelle, headers={
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                      "AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15",
+        "Accept": "text/calendar,*/*",
+    })
+    for versuch in range(4):
+        try:
+            roh = urllib.request.urlopen(anfrage, timeout=30).read()
+            break
+        except Exception as fehler:
+            print(f"Versuch {versuch + 1} fehlgeschlagen: {fehler}")
+            if versuch == 3:
+                raise
+            time.sleep(10)
 else:
     roh = open(quelle, "rb").read()
 text = roh.decode("utf-8", errors="replace").replace("\r\n", "\n")
