@@ -104,7 +104,7 @@ RDATE:19800101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261009T080000
 DTEND;TZID=Europe/Berlin:20261009T100000
 SUMMARY:251261010A Geologie\, Bodenchemie und -ökologie
@@ -117,7 +117,7 @@ EXDATE;TZID=Europe/Berlin:20270101T080000,20261225T080000,20270115T080000,202610
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49138&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261106T080000
 DTEND;TZID=Europe/Berlin:20261106T121500
 SUMMARY:251261010A Geologie\, Bodenchemie und -ökologie
@@ -129,7 +129,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261106T080000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20270122T090000
 DTEND;TZID=Europe/Berlin:20270122T100000
 SUMMARY:251261010A Geologie\, Bodenchemie und -ökologie
@@ -141,7 +141,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20270122T080000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261127T080000
 DTEND;TZID=Europe/Berlin:20261127T121500
 SUMMARY:251261010A Geologie\, Bodenchemie und -ökologie
@@ -153,7 +153,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261127T080000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261007T080000
 DTEND;TZID=Europe/Berlin:20261007T100000
 SUMMARY:251261010B Bodenphysik
@@ -167,7 +167,7 @@ EXDATE;TZID=Europe/Berlin:20261014T080000,20261230T080000,20261223T080000,202701
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49139&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261021T123000
 DTEND;TZID=Europe/Berlin:20261021T152000
 SUMMARY:251261010C Bodenchemie und Bodenphysik - Praktikum
@@ -180,7 +180,7 @@ CATEGORIES:Praktikum
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49140&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261008T100000
 DTEND;TZID=Europe/Berlin:20261008T120000
 SUMMARY:251261020A Grundlagen der Landschaftsarchitektur und Stadtplanung
@@ -193,7 +193,7 @@ EXDATE;TZID=Europe/Berlin:20261224T100000,20261015T100000,20261231T100000
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49161&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261112T080000
 DTEND;TZID=Europe/Berlin:20261112T100000
 SUMMARY:251261020B Planungsebenen und Arbeitsfelder
@@ -205,7 +205,7 @@ CATEGORIES:Seminaristischer Unterricht
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49162&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261217T080000
 DTEND;TZID=Europe/Berlin:20261217T100000
 SUMMARY:251261020B Planungsebenen und Arbeitsfelder
@@ -217,7 +217,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261224T080000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20270114T080000
 DTEND;TZID=Europe/Berlin:20270114T100000
 SUMMARY:251261020B Planungsebenen und Arbeitsfelder
@@ -229,7 +229,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20270121T080000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261006T081500
 DTEND;TZID=Europe/Berlin:20261006T104500
 SUMMARY:251261030A Botanik
@@ -243,7 +243,7 @@ EXDATE;TZID=Europe/Berlin:20261020T081500,20270105T081500,20261103T081500,202611
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49164&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261124T081500
 DTEND;TZID=Europe/Berlin:20261124T114500
 SUMMARY:251261030A Botanik
@@ -256,7 +256,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261124T081500
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261215T081500
 DTEND;TZID=Europe/Berlin:20261215T114500
 SUMMARY:251261030A Botanik
@@ -269,7 +269,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261215T081500
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261208T081500
 DTEND;TZID=Europe/Berlin:20261208T114500
 SUMMARY:251261030A Botanik
@@ -282,7 +282,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261208T081500
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261006T080000
 DTEND;TZID=Europe/Berlin:20261006T103000
 SUMMARY:251261030A Botanik
@@ -295,7 +295,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261006T081500
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261117T090000
 DTEND;TZID=Europe/Berlin:20261117T120000
 SUMMARY:251261030A Botanik
@@ -308,7 +308,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261117T081500
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261201T080000
 DTEND;TZID=Europe/Berlin:20261201T103000
 SUMMARY:251261030A Botanik
@@ -321,7 +321,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261201T081500
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261222T081500
 DTEND;TZID=Europe/Berlin:20261222T114500
 SUMMARY:251261030A Botanik
@@ -334,7 +334,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261222T081500
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261027T081500
 DTEND;TZID=Europe/Berlin:20261027T114500
 SUMMARY:251261030A Botanik
@@ -347,7 +347,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261027T081500
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261009T101500
 DTEND;TZID=Europe/Berlin:20261009T121500
 SUMMARY:251261030B Landschaftsökologie und Klimawandel
@@ -360,7 +360,7 @@ EXDATE;TZID=Europe/Berlin:20261127T101500,20261225T101500,20261016T101500,202701
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49165&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20270108T080000
 DTEND;TZID=Europe/Berlin:20270108T121500
 SUMMARY:251261030B Landschaftsökologie und Klimawandel
@@ -372,7 +372,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20270108T101500
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20270115T080000
 DTEND;TZID=Europe/Berlin:20270115T121500
 SUMMARY:251261030B Landschaftsökologie und Klimawandel
@@ -384,7 +384,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20270115T101500
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261019T090000
 DTEND;TZID=Europe/Berlin:20261019T120000
 SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
@@ -397,7 +397,7 @@ CATEGORIES:Projektstudium
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261019T100000
 DTEND;TZID=Europe/Berlin:20261019T120000
 SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
@@ -410,7 +410,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261019T090000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261026T090000
 DTEND;TZID=Europe/Berlin:20261026T130000
 SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
@@ -423,7 +423,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261026T090000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261019T130000
 DTEND;TZID=Europe/Berlin:20261019T160000
 SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
@@ -436,7 +436,7 @@ CATEGORIES:Projektstudium
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261019T130000
 DTEND;TZID=Europe/Berlin:20261019T160000
 SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
@@ -449,7 +449,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261019T130000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261026T140000
 DTEND;TZID=Europe/Berlin:20261026T180000
 SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
@@ -462,7 +462,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261026T130000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261020T123000
 DTEND;TZID=Europe/Berlin:20261020T152000
 SUMMARY:251261050A Grundlagen der Gestaltung
@@ -476,7 +476,7 @@ EXDATE;TZID=Europe/Berlin:20261229T123000
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49167&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20270119T123000
 DTEND;TZID=Europe/Berlin:20270119T152000
 SUMMARY:251261050A Grundlagen der Gestaltung
@@ -489,7 +489,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20270112T123000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170311Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20260929T140000
 DTEND;TZID=Europe/Berlin:20260929T165000
 SUMMARY:251261050B Darstellende Geometrie
@@ -503,7 +503,7 @@ EXDATE;TZID=Europe/Berlin:20270105T140000,20260929T140000
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49168&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261006T140000
 DTEND;TZID=Europe/Berlin:20261006T165000
 SUMMARY:251261050B Darstellende Geometrie
@@ -516,7 +516,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261013T140000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20270112T140000
 DTEND;TZID=Europe/Berlin:20270112T165000
 SUMMARY:251261050B Darstellende Geometrie
@@ -529,7 +529,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261222T140000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261008T080000
 DTEND;TZID=Europe/Berlin:20261008T100000
 SUMMARY:251261050D Konzepte der Gestaltungspraxis
@@ -541,7 +541,7 @@ CATEGORIES:Seminaristischer Unterricht
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49170&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261029T080000
 DTEND;TZID=Europe/Berlin:20261029T100000
 SUMMARY:251261050D Konzepte der Gestaltungspraxis
@@ -553,7 +553,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261217T080000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261007T100000
 DTEND;TZID=Europe/Berlin:20261007T120000
 SUMMARY:251261060A Grundzüge graphischer Datenverarbeitung
@@ -566,7 +566,7 @@ EXDATE;TZID=Europe/Berlin:20270106T100000,20261014T100000,20261230T100000,202612
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49171&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261021T153000
 DTEND;TZID=Europe/Berlin:20261021T173000
 SUMMARY:251261060B Grundzüge graphischer Datenverarbeitung - Praktikum
@@ -579,7 +579,7 @@ CATEGORIES:Praktikum
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49172&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261125T130000
 DTEND;TZID=Europe/Berlin:20261125T150000
 SUMMARY:251261060B Grundzüge graphischer Datenverarbeitung - Praktikum
@@ -592,7 +592,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261118T153000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261020T081500
 DTEND;TZID=Europe/Berlin:20261020T114500
 SUMMARY:251261060C Vermessung
@@ -606,7 +606,7 @@ EXDATE;TZID=Europe/Berlin:20261027T081500
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49173&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261012T103000
 DTEND;TZID=Europe/Berlin:20261012T150000
 SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
@@ -617,7 +617,7 @@ CATEGORIES:Projektstudium
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261013T103000
 DTEND;TZID=Europe/Berlin:20261013T130000
 SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
@@ -628,7 +628,7 @@ CATEGORIES:Projektstudium
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261013T140000
 DTEND;TZID=Europe/Berlin:20261013T164500
 SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
@@ -640,7 +640,7 @@ CATEGORIES:Projektstudium
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261014T103000
 DTEND;TZID=Europe/Berlin:20261014T123000
 SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
@@ -652,7 +652,7 @@ CATEGORIES:Projektstudium
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261014T130000
 DTEND;TZID=Europe/Berlin:20261014T190000
 SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
@@ -664,7 +664,7 @@ CATEGORIES:Projektstudium
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261015T113000
 DTEND;TZID=Europe/Berlin:20261015T133000
 SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
@@ -676,7 +676,7 @@ CATEGORIES:Projektstudium
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261015T150000
 DTEND;TZID=Europe/Berlin:20261015T170000
 SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
@@ -688,7 +688,7 @@ CATEGORIES:Projektstudium
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261016T103000
 DTEND;TZID=Europe/Berlin:20261016T123000
 SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
@@ -699,7 +699,7 @@ CATEGORIES:Projektstudium
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261012T083000
 DTEND;TZID=Europe/Berlin:20261012T093000
 SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
@@ -711,7 +711,7 @@ CATEGORIES:Projektstudium
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261012T080000
 DTEND;TZID=Europe/Berlin:20261012T100000
 SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
@@ -723,7 +723,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261012T083000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261016T083000
 DTEND;TZID=Europe/Berlin:20261016T100000
 SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
@@ -735,7 +735,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20261016T083000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261016T134500
 DTEND;TZID=Europe/Berlin:20261016T180000
 SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
@@ -746,7 +746,7 @@ CATEGORIES:Projektstudium
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261005T100000
 DTEND;TZID=Europe/Berlin:20261005T120000
 SUMMARY:251261060C Vermessung
@@ -758,7 +758,7 @@ CATEGORIES:Seminaristischer Unterricht
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49173&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261005T170000
 DTEND;TZID=Europe/Berlin:20261005T183000
 SUMMARY:251261050C Plandarstellung 1
@@ -769,7 +769,7 @@ CATEGORIES:Praktikum
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49169&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261014T140000
 DTEND;TZID=Europe/Berlin:20261014T160000
 SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
@@ -781,7 +781,7 @@ CATEGORIES:Projektstudium
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261005T130000
 DTEND;TZID=Europe/Berlin:20261005T150000
 SUMMARY:251261050D Konzepte der Gestaltungspraxis
@@ -792,7 +792,7 @@ CATEGORIES:Seminaristischer Unterricht
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49170&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261019T080000
 DTEND;TZID=Europe/Berlin:20261019T100000
 SUMMARY:251261050C Plandarstellung 1
@@ -803,7 +803,7 @@ CATEGORIES:Praktikum
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49169&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261014T103000
 DTEND;TZID=Europe/Berlin:20261014T123000
 SUMMARY:251261050C Plandarstellung 1
@@ -814,7 +814,7 @@ CATEGORIES:Praktikum
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49169&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261014T140000
 DTEND;TZID=Europe/Berlin:20261014T160000
 SUMMARY:251261050C Plandarstellung 1
@@ -825,7 +825,7 @@ CATEGORIES:Praktikum
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49169&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261015T113000
 DTEND;TZID=Europe/Berlin:20261015T133000
 SUMMARY:251261050C Plandarstellung 1
@@ -836,7 +836,7 @@ CATEGORIES:Praktikum
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49169&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261015T150000
 DTEND;TZID=Europe/Berlin:20261015T170000
 SUMMARY:251261050C Plandarstellung 1
@@ -847,7 +847,7 @@ CATEGORIES:Praktikum
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49169&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261216T123000
 DTEND;TZID=Europe/Berlin:20261216T152000
 SUMMARY:251261010C Bodenchemie und Bodenphysik - Praktikum
@@ -860,7 +860,7 @@ CATEGORIES:Praktikum
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49140&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20261020T155000
 DTEND;TZID=Europe/Berlin:20261020T184000
 SUMMARY:251261050C Plandarstellung 1
@@ -874,7 +874,7 @@ EXDATE;TZID=Europe/Berlin:20261229T155000
 URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49169&periodId=1259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20270119T155000
 DTEND;TZID=Europe/Berlin:20270119T184000
 SUMMARY:251261050C Plandarstellung 1
@@ -887,7 +887,7 @@ URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailV
 RECURRENCE-ID;TZID=Europe/Berlin:20270112T155000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261002T170312Z
+DTSTAMP:20261002T171849Z
 DTSTART;TZID=Europe/Berlin:20270112T110000
 DTEND;TZID=Europe/Berlin:20270112T114500
 SUMMARY:251261060C Vermessung
