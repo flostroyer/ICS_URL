@@ -1,0 +1,28 @@
+name: ICS filtern
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # täglich ca. 5-6 Uhr deutscher Zeit
+  workflow_dispatch:       # zusätzlich manuell startbar
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Feed filtern
+        env:
+          ICS_URL: ${{ secrets.ICS_URL }}
+        run: python3 ics_filter.py "$ICS_URL" LP1 lp1.ics
+
+      - name: Ergebnis speichern
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add lp1.ics
+          git commit -m "Stundenplan aktualisiert" || exit 0
+          git push
