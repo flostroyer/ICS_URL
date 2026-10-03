@@ -1,902 +1,109 @@
-BEGIN:VCALENDAR
-PRODID:-//HISinOne - HIS eG//iCal4j 3.0.6//EN
-VERSION:2.0
-CALSCALE:GREGORIAN
-BEGIN:VTIMEZONE
-TZID:Europe/Berlin
-TZURL:http://tzurl.org/zoneinfo/Europe/Berlin
-X-LIC-LOCATION:Europe/Berlin
-BEGIN:DAYLIGHT
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-TZNAME:CEST
-DTSTART:19810329T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-END:DAYLIGHT
-BEGIN:STANDARD
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-TZNAME:CET
-DTSTART:19961027T030000
-RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-END:STANDARD
-BEGIN:STANDARD
-TZOFFSETFROM:+005328
-TZOFFSETTO:+0100
-TZNAME:CET
-DTSTART:18930401T000000
-RDATE:18930401T000000
-END:STANDARD
-BEGIN:DAYLIGHT
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-TZNAME:CEST
-DTSTART:19160430T230000
-RDATE:19160430T230000
-RDATE:19170416T020000
-RDATE:19180415T020000
-RDATE:19400401T020000
-RDATE:19430329T020000
-RDATE:19440403T020000
-RDATE:19450402T020000
-RDATE:19460414T020000
-RDATE:19470406T030000
-RDATE:19480418T020000
-RDATE:19490410T020000
-RDATE:19800406T020000
-END:DAYLIGHT
-BEGIN:STANDARD
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-TZNAME:CET
-DTSTART:19161001T010000
-RDATE:19161001T010000
-RDATE:19170917T030000
-RDATE:19180916T030000
-RDATE:19421102T030000
-RDATE:19431004T030000
-RDATE:19441002T030000
-RDATE:19451118T030000
-RDATE:19461007T030000
-RDATE:19471005T030000
-RDATE:19481003T030000
-RDATE:19491002T030000
-RDATE:19800928T030000
-RDATE:19810927T030000
-RDATE:19820926T030000
-RDATE:19830925T030000
-RDATE:19840930T030000
-RDATE:19850929T030000
-RDATE:19860928T030000
-RDATE:19870927T030000
-RDATE:19880925T030000
-RDATE:19890924T030000
-RDATE:19900930T030000
-RDATE:19910929T030000
-RDATE:19920927T030000
-RDATE:19930926T030000
-RDATE:19940925T030000
-RDATE:19950924T030000
-END:STANDARD
-BEGIN:DAYLIGHT
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0300
-TZNAME:CEMT
-DTSTART:19450524T020000
-RDATE:19450524T020000
-RDATE:19470511T030000
-END:DAYLIGHT
-BEGIN:DAYLIGHT
-TZOFFSETFROM:+0300
-TZOFFSETTO:+0200
-TZNAME:CEST
-DTSTART:19450924T030000
-RDATE:19450924T030000
-RDATE:19470629T030000
-END:DAYLIGHT
-BEGIN:STANDARD
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0100
-TZNAME:CET
-DTSTART:19460101T000000
-RDATE:19460101T000000
-RDATE:19800101T000000
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261009T080000
-DTEND;TZID=Europe/Berlin:20261009T100000
-SUMMARY:251261010A Geologie\, Bodenchemie und -ökologie
-DESCRIPTION:Hörsaal 16 im ZHG der TUM
-LAST-MODIFIED:20260812T153752Z
-UID:22cc4f60-ee6c-4e26-a8c2-ab5cf2101a3f
-RRULE:FREQ=WEEKLY;UNTIL=20270122T100000;INTERVAL=1;BYDAY=FR
-CATEGORIES:Seminaristischer Unterricht
-EXDATE;TZID=Europe/Berlin:20270101T080000,20261225T080000,20270115T080000,20261016T080000,20270108T080000
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49138&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261106T080000
-DTEND;TZID=Europe/Berlin:20261106T121500
-SUMMARY:251261010A Geologie\, Bodenchemie und -ökologie
-DESCRIPTION:Hörsaal 16 im ZHG der TUM
-LAST-MODIFIED:20260812T153752Z
-UID:22cc4f60-ee6c-4e26-a8c2-ab5cf2101a3f
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49138&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261106T080000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20270122T090000
-DTEND;TZID=Europe/Berlin:20270122T100000
-SUMMARY:251261010A Geologie\, Bodenchemie und -ökologie
-DESCRIPTION:Hörsaal 16 im ZHG der TUM
-LAST-MODIFIED:20260812T153752Z
-UID:22cc4f60-ee6c-4e26-a8c2-ab5cf2101a3f
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49138&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20270122T080000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261127T080000
-DTEND;TZID=Europe/Berlin:20261127T121500
-SUMMARY:251261010A Geologie\, Bodenchemie und -ökologie
-DESCRIPTION:Hörsaal 16 im ZHG der TUM
-LAST-MODIFIED:20260812T153752Z
-UID:22cc4f60-ee6c-4e26-a8c2-ab5cf2101a3f
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49138&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261127T080000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261007T080000
-DTEND;TZID=Europe/Berlin:20261007T100000
-SUMMARY:251261010B Bodenphysik
-DESCRIPTION:84|LP|-|-|20262
-LAST-MODIFIED:20260717T140930Z
-UID:9c0b380e-201c-4ba0-8819-60417daf7ef0
-RRULE:FREQ=WEEKLY;UNTIL=20270120T100000;INTERVAL=1;BYDAY=WE
-LOCATION:C4.341
-CATEGORIES:Seminaristischer Unterricht
-EXDATE;TZID=Europe/Berlin:20261014T080000,20261230T080000,20261223T080000,20270106T080000
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49139&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261021T123000
-DTEND;TZID=Europe/Berlin:20261021T152000
-SUMMARY:251261010C Bodenchemie und Bodenphysik - Praktikum
-DESCRIPTION:Gruppe LP1
-LAST-MODIFIED:20260923T065105Z
-UID:60ed783f-45d4-4212-b4f4-26d764cab84e
-RRULE:FREQ=WEEKLY;UNTIL=20261111T152000;INTERVAL=3;BYDAY=WE
-LOCATION:A1.102
-CATEGORIES:Praktikum
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49140&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261008T100000
-DTEND;TZID=Europe/Berlin:20261008T120000
-SUMMARY:251261020A Grundlagen der Landschaftsarchitektur und Stadtplanung
-DESCRIPTION:Hörsaal 16 im ZHG der TUM
-LAST-MODIFIED:20260805T121548Z
-UID:5ac63d5d-1230-478f-9a8e-abda02f1458e
-RRULE:FREQ=WEEKLY;UNTIL=20270114T120000;INTERVAL=1;BYDAY=TH
-CATEGORIES:Seminaristischer Unterricht
-EXDATE;TZID=Europe/Berlin:20261224T100000,20261015T100000,20261231T100000
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49161&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261112T080000
-DTEND;TZID=Europe/Berlin:20261112T100000
-SUMMARY:251261020B Planungsebenen und Arbeitsfelder
-DESCRIPTION:Hörsaal 16 im ZHG der TUM
-LAST-MODIFIED:20260819T120635Z
-UID:45ccf983-89a2-4afa-8d60-bf84e7e6853e
-RRULE:FREQ=WEEKLY;UNTIL=20270121T100000;INTERVAL=2;BYDAY=TH
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49162&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261217T080000
-DTEND;TZID=Europe/Berlin:20261217T100000
-SUMMARY:251261020B Planungsebenen und Arbeitsfelder
-DESCRIPTION:Hörsaal 16 im ZHG der TUM
-LAST-MODIFIED:20260819T120635Z
-UID:45ccf983-89a2-4afa-8d60-bf84e7e6853e
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49162&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261224T080000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20270114T080000
-DTEND;TZID=Europe/Berlin:20270114T100000
-SUMMARY:251261020B Planungsebenen und Arbeitsfelder
-DESCRIPTION:Hörsaal 16 im ZHG der TUM
-LAST-MODIFIED:20260819T120635Z
-UID:45ccf983-89a2-4afa-8d60-bf84e7e6853e
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49162&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20270121T080000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261006T081500
-DTEND;TZID=Europe/Berlin:20261006T104500
-SUMMARY:251261030A Botanik
-DESCRIPTION:84|LP|-|-|20262
-LAST-MODIFIED:20260930T093617Z
-UID:8eb22dcb-3841-4e67-9a0a-46fb94161151
-RRULE:FREQ=WEEKLY;UNTIL=20270119T104500;INTERVAL=1;BYDAY=TU
-LOCATION:D1.202
-CATEGORIES:Seminaristischer Unterricht
-EXDATE;TZID=Europe/Berlin:20261020T081500,20270105T081500,20261103T081500,20261110T081500,20261229T081500,20261013T081500
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49164&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261124T081500
-DTEND;TZID=Europe/Berlin:20261124T114500
-SUMMARY:251261030A Botanik
-DESCRIPTION:84|LP|-|-|20262
-LAST-MODIFIED:20260930T093617Z
-UID:8eb22dcb-3841-4e67-9a0a-46fb94161151
-LOCATION:D1.202
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49164&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261124T081500
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261215T081500
-DTEND;TZID=Europe/Berlin:20261215T114500
-SUMMARY:251261030A Botanik
-DESCRIPTION:84|LP|-|-|20262
-LAST-MODIFIED:20260930T093617Z
-UID:8eb22dcb-3841-4e67-9a0a-46fb94161151
-LOCATION:D1.202
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49164&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261215T081500
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261208T081500
-DTEND;TZID=Europe/Berlin:20261208T114500
-SUMMARY:251261030A Botanik
-DESCRIPTION:84|LP|-|-|20262
-LAST-MODIFIED:20260930T093617Z
-UID:8eb22dcb-3841-4e67-9a0a-46fb94161151
-LOCATION:D1.202
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49164&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261208T081500
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261006T080000
-DTEND;TZID=Europe/Berlin:20261006T103000
-SUMMARY:251261030A Botanik
-DESCRIPTION:84|LP|-|-|20262
-LAST-MODIFIED:20260930T093617Z
-UID:8eb22dcb-3841-4e67-9a0a-46fb94161151
-LOCATION:D1.202
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49164&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261006T081500
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261117T090000
-DTEND;TZID=Europe/Berlin:20261117T120000
-SUMMARY:251261030A Botanik
-DESCRIPTION:Botanischer Garten
-LAST-MODIFIED:20260930T093617Z
-UID:8eb22dcb-3841-4e67-9a0a-46fb94161151
-LOCATION:D1.202
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49164&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261117T081500
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261201T080000
-DTEND;TZID=Europe/Berlin:20261201T103000
-SUMMARY:251261030A Botanik
-DESCRIPTION:84|LP|-|-|20262
-LAST-MODIFIED:20260930T093617Z
-UID:8eb22dcb-3841-4e67-9a0a-46fb94161151
-LOCATION:D1.202
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49164&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261201T081500
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261222T081500
-DTEND;TZID=Europe/Berlin:20261222T114500
-SUMMARY:251261030A Botanik
-DESCRIPTION:84|LP|-|-|20262
-LAST-MODIFIED:20260930T093617Z
-UID:8eb22dcb-3841-4e67-9a0a-46fb94161151
-LOCATION:D1.202
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49164&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261222T081500
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261027T081500
-DTEND;TZID=Europe/Berlin:20261027T114500
-SUMMARY:251261030A Botanik
-DESCRIPTION:84|LP|-|-|20262
-LAST-MODIFIED:20260930T093617Z
-UID:8eb22dcb-3841-4e67-9a0a-46fb94161151
-LOCATION:D1.202
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49164&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261027T081500
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261009T101500
-DTEND;TZID=Europe/Berlin:20261009T121500
-SUMMARY:251261030B Landschaftsökologie und Klimawandel
-DESCRIPTION:Hörsaal 16 im ZHG der TUM
-LAST-MODIFIED:20260812T142114Z
-UID:6500fecb-14c8-4014-b325-708168053be8
-RRULE:FREQ=WEEKLY;UNTIL=20270122T121500;INTERVAL=1;BYDAY=FR
-CATEGORIES:Seminaristischer Unterricht
-EXDATE;TZID=Europe/Berlin:20261127T101500,20261225T101500,20261016T101500,20270101T101500,20261106T101500
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49165&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20270108T080000
-DTEND;TZID=Europe/Berlin:20270108T121500
-SUMMARY:251261030B Landschaftsökologie und Klimawandel
-DESCRIPTION:Hörsaal 16 im ZHG der TUM
-LAST-MODIFIED:20260812T142114Z
-UID:6500fecb-14c8-4014-b325-708168053be8
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49165&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20270108T101500
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20270115T080000
-DTEND;TZID=Europe/Berlin:20270115T121500
-SUMMARY:251261030B Landschaftsökologie und Klimawandel
-DESCRIPTION:Hörsaal 16 im ZHG der TUM
-LAST-MODIFIED:20260812T142114Z
-UID:6500fecb-14c8-4014-b325-708168053be8
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49165&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20270115T101500
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261019T090000
-DTEND;TZID=Europe/Berlin:20261019T120000
-SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
-DESCRIPTION:Gruppen OP1 bis OP6
-LAST-MODIFIED:20260923T143847Z
-UID:4d169657-52c8-4704-99d5-b646bfe3102e
-RRULE:FREQ=WEEKLY;UNTIL=20261123T120000;INTERVAL=1;BYDAY=MO
-LOCATION:C4.211 | C4.213 | C4.218 | C4.219 | C4.333
-CATEGORIES:Projektstudium
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261019T100000
-DTEND;TZID=Europe/Berlin:20261019T120000
-SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
-DESCRIPTION:Eigenarbeit ohne Betreuung
-LAST-MODIFIED:20260923T143847Z
-UID:4d169657-52c8-4704-99d5-b646bfe3102e
-LOCATION:C4.333
-CATEGORIES:Projektstudium
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261019T090000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261026T090000
-DTEND;TZID=Europe/Berlin:20261026T130000
-SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
-DESCRIPTION:Gruppen OP1 bis OP6
-LAST-MODIFIED:20260923T143847Z
-UID:4d169657-52c8-4704-99d5-b646bfe3102e
-LOCATION:C4.211 | C4.213 | C4.218 | C4.219 | C4.333
-CATEGORIES:Projektstudium
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261026T090000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261019T130000
-DTEND;TZID=Europe/Berlin:20261019T160000
-SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
-DESCRIPTION:Gruppen OP7 bis OP12
-LAST-MODIFIED:20260923T143856Z
-UID:b708a371-922b-4b2b-84ba-0a0594643866
-RRULE:FREQ=WEEKLY;UNTIL=20261123T160000;INTERVAL=1;BYDAY=MO
-LOCATION:C4.211 | C4.213 | C4.218 | C4.219 | C4.333
-CATEGORIES:Projektstudium
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261019T130000
-DTEND;TZID=Europe/Berlin:20261019T160000
-SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
-DESCRIPTION:Eigenarbeit ohne Betreuung
-LAST-MODIFIED:20260923T143856Z
-UID:b708a371-922b-4b2b-84ba-0a0594643866
-LOCATION:C4.333
-CATEGORIES:Projektstudium
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261019T130000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261026T140000
-DTEND;TZID=Europe/Berlin:20261026T180000
-SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
-DESCRIPTION:Gruppen OP7 bis OP12
-LAST-MODIFIED:20260923T143856Z
-UID:b708a371-922b-4b2b-84ba-0a0594643866
-LOCATION:C4.211 | C4.213 | C4.218 | C4.219 | C4.333
-CATEGORIES:Projektstudium
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261026T130000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261020T123000
-DTEND;TZID=Europe/Berlin:20261020T152000
-SUMMARY:251261050A Grundlagen der Gestaltung
-DESCRIPTION:Gruppe LP1
-LAST-MODIFIED:20260923T070918Z
-UID:6118872b-e733-427c-8a21-a7353e75e089
-RRULE:FREQ=WEEKLY;UNTIL=20270119T152000;INTERVAL=2;BYDAY=TU
-LOCATION:A9.102
-CATEGORIES:Praktikum
-EXDATE;TZID=Europe/Berlin:20261229T123000
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49167&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20270119T123000
-DTEND;TZID=Europe/Berlin:20270119T152000
-SUMMARY:251261050A Grundlagen der Gestaltung
-DESCRIPTION:Gruppe LP1
-LAST-MODIFIED:20260923T070918Z
-UID:6118872b-e733-427c-8a21-a7353e75e089
-LOCATION:A9.102
-CATEGORIES:Praktikum
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49167&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20270112T123000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20260929T140000
-DTEND;TZID=Europe/Berlin:20260929T165000
-SUMMARY:251261050B Darstellende Geometrie
-DESCRIPTION:Gruppen LP1 und LP2
-LAST-MODIFIED:20260923T073338Z
-UID:f9571827-4699-4cda-ae22-7bba0c7b3c39
-RRULE:FREQ=WEEKLY;UNTIL=20270112T165000;INTERVAL=2;BYDAY=TU
-LOCATION:C4.264
-CATEGORIES:Praktikum
-EXDATE;TZID=Europe/Berlin:20270105T140000,20260929T140000
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49168&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261006T140000
-DTEND;TZID=Europe/Berlin:20261006T165000
-SUMMARY:251261050B Darstellende Geometrie
-DESCRIPTION:Gruppen LP1 und LP2
-LAST-MODIFIED:20260923T073338Z
-UID:f9571827-4699-4cda-ae22-7bba0c7b3c39
-LOCATION:C4.264
-CATEGORIES:Praktikum
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49168&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261013T140000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20270112T140000
-DTEND;TZID=Europe/Berlin:20270112T165000
-SUMMARY:251261050B Darstellende Geometrie
-DESCRIPTION:Gruppen LP1 und LP2
-LAST-MODIFIED:20260923T073338Z
-UID:f9571827-4699-4cda-ae22-7bba0c7b3c39
-LOCATION:C4.264
-CATEGORIES:Praktikum
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49168&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261222T140000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261008T080000
-DTEND;TZID=Europe/Berlin:20261008T100000
-SUMMARY:251261050D Konzepte der Gestaltungspraxis
-DESCRIPTION:Hörsaal 16 im ZHG der TUM
-LAST-MODIFIED:20260819T065141Z
-UID:56610ee9-1307-4bfa-b197-d99eab5f461b
-RRULE:FREQ=WEEKLY;UNTIL=20261217T100000;INTERVAL=2;BYDAY=TH
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49170&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261029T080000
-DTEND;TZID=Europe/Berlin:20261029T100000
-SUMMARY:251261050D Konzepte der Gestaltungspraxis
-DESCRIPTION:Hörsaal 16 im ZHG der TUM
-LAST-MODIFIED:20260819T065141Z
-UID:56610ee9-1307-4bfa-b197-d99eab5f461b
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49170&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261217T080000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261007T100000
-DTEND;TZID=Europe/Berlin:20261007T120000
-SUMMARY:251261060A Grundzüge graphischer Datenverarbeitung
-DESCRIPTION:Hörsaal 15 im ZHG der TUM
-LAST-MODIFIED:20260805T121303Z
-UID:898acfda-b683-4a88-848d-af40bbdeb561
-RRULE:FREQ=WEEKLY;UNTIL=20270120T120000;INTERVAL=1;BYDAY=WE
-CATEGORIES:Seminaristischer Unterricht
-EXDATE;TZID=Europe/Berlin:20270106T100000,20261014T100000,20261230T100000,20261223T100000
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49171&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261021T153000
-DTEND;TZID=Europe/Berlin:20261021T173000
-SUMMARY:251261060B Grundzüge graphischer Datenverarbeitung - Praktikum
-DESCRIPTION:Gruppe LP1
-LAST-MODIFIED:20260923T105728Z
-UID:ca73f344-5800-4964-8747-8d6d18f958ee
-RRULE:FREQ=WEEKLY;UNTIL=20261216T173000;INTERVAL=4;BYDAY=WE
-LOCATION:C4.332
-CATEGORIES:Praktikum
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49172&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261125T130000
-DTEND;TZID=Europe/Berlin:20261125T150000
-SUMMARY:251261060B Grundzüge graphischer Datenverarbeitung - Praktikum
-DESCRIPTION:Gruppe LP1
-LAST-MODIFIED:20260923T105728Z
-UID:ca73f344-5800-4964-8747-8d6d18f958ee
-LOCATION:C4.332
-CATEGORIES:Praktikum
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49172&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261118T153000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261020T081500
-DTEND;TZID=Europe/Berlin:20261020T114500
-SUMMARY:251261060C Vermessung
-DESCRIPTION:84|LP|-|-|20262
-LAST-MODIFIED:20260930T115157Z
-UID:b0b6afde-9380-4e9f-93bf-16f70165cdbf
-RRULE:FREQ=WEEKLY;UNTIL=20261110T114500;INTERVAL=1;BYDAY=TU
-LOCATION:D1.202
-CATEGORIES:Seminaristischer Unterricht
-EXDATE;TZID=Europe/Berlin:20261027T081500
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49173&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261012T103000
-DTEND;TZID=Europe/Berlin:20261012T150000
-SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
-DESCRIPTION:Geländetermin
-LAST-MODIFIED:20260924T160429Z
-UID:2b4d4762-b34a-45b2-b64f-a3c997d8a474
-CATEGORIES:Projektstudium
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261013T103000
-DTEND;TZID=Europe/Berlin:20261013T130000
-SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
-DESCRIPTION:Geländetermin
-LAST-MODIFIED:20260723T124315Z
-UID:aefb4622-192a-42e1-a971-b79b3f3905b6
-CATEGORIES:Projektstudium
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261013T140000
-DTEND;TZID=Europe/Berlin:20261013T164500
-SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
-DESCRIPTION:84|LP|-|-|20262
-LAST-MODIFIED:20260723T140315Z
-UID:52af8389-6cd2-4e29-88fa-13f1fa6cc79a
-LOCATION:A9.101 | A9.102 | A9.201
-CATEGORIES:Projektstudium
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261014T103000
-DTEND;TZID=Europe/Berlin:20261014T123000
-SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
-DESCRIPTION:Gruppe 1 bis 5
-LAST-MODIFIED:20260723T124657Z
-UID:230018ea-4468-4148-97f3-46d1fd2fb8d1
-LOCATION:A5.301 | A9.102 | C4.211 | C4.255 | C4.258
-CATEGORIES:Projektstudium
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261014T130000
-DTEND;TZID=Europe/Berlin:20261014T190000
-SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
-DESCRIPTION:Open Studio
-LAST-MODIFIED:20260810T101055Z
-UID:44d1dd91-777c-41bc-9430-3cf2b4f7cbc9
-LOCATION:C4.218 | C4.219
-CATEGORIES:Projektstudium
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261015T113000
-DTEND;TZID=Europe/Berlin:20261015T133000
-SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
-DESCRIPTION:Gruppe 1 bis 5
-LAST-MODIFIED:20260723T125121Z
-UID:a0fb583e-3a1d-4c5f-b338-46ea2f2215c2
-LOCATION:A5.301 | A9.101 | A9.102 | C4.211 | C4.258
-CATEGORIES:Projektstudium
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261015T150000
-DTEND;TZID=Europe/Berlin:20261015T170000
-SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
-DESCRIPTION:Gruppe 6 bis 10
-LAST-MODIFIED:20260723T125139Z
-UID:447bfbea-8a09-4bc3-abae-ce95e315175e
-LOCATION:A5.301 | A9.101 | A9.102 | C4.211 | C4.258
-CATEGORIES:Projektstudium
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261016T103000
-DTEND;TZID=Europe/Berlin:20261016T123000
-SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
-DESCRIPTION:84|LP|-|-|20262
-LAST-MODIFIED:20260723T125757Z
-UID:ed53d840-b0b2-4e8e-a548-734bed92829e
-CATEGORIES:Projektstudium
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261012T083000
-DTEND;TZID=Europe/Berlin:20261012T093000
-SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
-DESCRIPTION:84|LP|-|-|20262
-LAST-MODIFIED:20260728T134155Z
-UID:8477f950-6d57-4d56-8f05-3b8e94cbfdfa
-RRULE:FREQ=DAILY;WKST=MO;UNTIL=20261016T093000;INTERVAL=1;BYDAY=MO,TU,WE,TH,FR
-CATEGORIES:Projektstudium
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261012T080000
-DTEND;TZID=Europe/Berlin:20261012T100000
-SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
-DESCRIPTION:ZHG der TUM\, Hörsaal 16
-LAST-MODIFIED:20260728T134155Z
-UID:8477f950-6d57-4d56-8f05-3b8e94cbfdfa
-CATEGORIES:Projektstudium
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261012T083000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261016T083000
-DTEND;TZID=Europe/Berlin:20261016T100000
-SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
-DESCRIPTION:Hörsaal 16 im ZHG der TUM
-LAST-MODIFIED:20260728T134155Z
-UID:8477f950-6d57-4d56-8f05-3b8e94cbfdfa
-CATEGORIES:Projektstudium
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20261016T083000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261016T134500
-DTEND;TZID=Europe/Berlin:20261016T180000
-SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
-DESCRIPTION:Geländetermin
-LAST-MODIFIED:20260810T101200Z
-UID:395699a3-921c-4dfc-ba51-780d4df9d74a
-CATEGORIES:Projektstudium
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261005T100000
-DTEND;TZID=Europe/Berlin:20261005T120000
-SUMMARY:251261060C Vermessung
-DESCRIPTION:84|LP|-|-|20262
-LAST-MODIFIED:20260929T113901Z
-UID:ca695f11-1c58-4644-ac91-b3f80f374dd4
-LOCATION:C4.341
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49173&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261005T170000
-DTEND;TZID=Europe/Berlin:20261005T183000
-SUMMARY:251261050C Plandarstellung 1
-DESCRIPTION:84|LP|-|-|20262
-LAST-MODIFIED:20260929T114643Z
-UID:e0d26e4f-e21d-4a74-baee-30245638774c
-CATEGORIES:Praktikum
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49169&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261014T140000
-DTEND;TZID=Europe/Berlin:20261014T160000
-SUMMARY:251261040A Orientierendes Projekt "Planen\, Entwerfen und Bauen"
-DESCRIPTION:84|LP|-|-|20262
-LAST-MODIFIED:20261001T122813Z
-UID:cf3500ec-9d2f-497a-992e-22ea355a5d44
-LOCATION:A5.301 | A9.102 | C4.209 | C4.211 | C4.258
-CATEGORIES:Projektstudium
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49166&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261005T130000
-DTEND;TZID=Europe/Berlin:20261005T150000
-SUMMARY:251261050D Konzepte der Gestaltungspraxis
-DESCRIPTION:Hörsaal 16 im ZHG der TUM
-LAST-MODIFIED:20260929T113046Z
-UID:f2c4de7a-aa22-43e1-9d6a-80b210a9dda3
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49170&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261019T080000
-DTEND;TZID=Europe/Berlin:20261019T100000
-SUMMARY:251261050C Plandarstellung 1
-DESCRIPTION:84|LP|-|-|20262
-LAST-MODIFIED:20260811T122817Z
-UID:834b792a-37bc-4166-a3b9-cb0ef13cbac1
-CATEGORIES:Praktikum
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49169&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261014T103000
-DTEND;TZID=Europe/Berlin:20261014T123000
-SUMMARY:251261050C Plandarstellung 1
-DESCRIPTION:Gruppe OP7 bis OP12
-LAST-MODIFIED:20260916T144007Z
-UID:cff7ca5a-3ed3-46e2-8a10-0f738737eaac
-CATEGORIES:Praktikum
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49169&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261014T140000
-DTEND;TZID=Europe/Berlin:20261014T160000
-SUMMARY:251261050C Plandarstellung 1
-DESCRIPTION:Gruppe OP1 bis OP6
-LAST-MODIFIED:20260916T144015Z
-UID:0e7a9b42-64ae-4737-93b3-ed67eea21aeb
-CATEGORIES:Praktikum
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49169&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261015T113000
-DTEND;TZID=Europe/Berlin:20261015T133000
-SUMMARY:251261050C Plandarstellung 1
-DESCRIPTION:Gruppe OP7 bis OP12
-LAST-MODIFIED:20260916T144019Z
-UID:ff26e055-9040-455c-9214-caa498d17671
-CATEGORIES:Praktikum
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49169&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261015T150000
-DTEND;TZID=Europe/Berlin:20261015T170000
-SUMMARY:251261050C Plandarstellung 1
-DESCRIPTION:Gruppe OP1 bis OP6
-LAST-MODIFIED:20260916T144026Z
-UID:c567fcac-b9bf-454f-9c6f-5a78f0fa2558
-CATEGORIES:Praktikum
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49169&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261216T123000
-DTEND;TZID=Europe/Berlin:20261216T152000
-SUMMARY:251261010C Bodenchemie und Bodenphysik - Praktikum
-DESCRIPTION:Gruppe LP1
-LAST-MODIFIED:20260923T065105Z
-UID:9efc5810-3fec-473c-9ab4-bd8fe18f5769
-RRULE:FREQ=MONTHLY;UNTIL=20270120T152000;BYDAY=WE;BYSETPOS=3
-LOCATION:A1.102
-CATEGORIES:Praktikum
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49140&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20261020T155000
-DTEND;TZID=Europe/Berlin:20261020T184000
-SUMMARY:251261050C Plandarstellung 1
-DESCRIPTION:Gruppe LP1
-LAST-MODIFIED:20260923T115531Z
-UID:afa3c8b7-2381-45a8-8b09-0ba09d2c46a4
-RRULE:FREQ=WEEKLY;UNTIL=20270119T184000;INTERVAL=2;BYDAY=TU
-LOCATION:A1.310
-CATEGORIES:Praktikum
-EXDATE;TZID=Europe/Berlin:20261229T155000
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49169&periodId=1259
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20270119T155000
-DTEND;TZID=Europe/Berlin:20270119T184000
-SUMMARY:251261050C Plandarstellung 1
-DESCRIPTION:Gruppe LP1
-LAST-MODIFIED:20260923T115531Z
-UID:afa3c8b7-2381-45a8-8b09-0ba09d2c46a4
-LOCATION:A1.310
-CATEGORIES:Praktikum
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49169&periodId=1259
-RECURRENCE-ID;TZID=Europe/Berlin:20270112T155000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261002T172109Z
-DTSTART;TZID=Europe/Berlin:20270112T110000
-DTEND;TZID=Europe/Berlin:20270112T114500
-SUMMARY:251261060C Vermessung
-DESCRIPTION:84|LP|-|-|20262
-LAST-MODIFIED:20260930T115245Z
-UID:4635819f-5198-4d89-be90-dd7566426b2e
-RRULE:FREQ=WEEKLY;UNTIL=20270119T114500;INTERVAL=1;BYDAY=TU
-LOCATION:D1.202
-CATEGORIES:Seminaristischer Unterricht
-URL:https://mycampus.hswt.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49173&periodId=1259
-END:VEVENT
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html xmlns="http://www.w3.org/1999/xhtml" lang="de" class="ie ie6" data-hotkey="shift+alt"><![endif]-->
+<!--[if IE 7 ]><html xmlns="http://www.w3.org/1999/xhtml" lang="de" class="ie ie7" data-hotkey="shift+alt"><![endif]-->
+<!--[if IE 8 ]><html xmlns="http://www.w3.org/1999/xhtml" lang="de" class="ie ie8" data-hotkey="shift+alt"><![endif]-->
+<!--[if IE 9 ]><html xmlns="http://www.w3.org/1999/xhtml" lang="de" class="ie ie9" data-hotkey="shift+alt"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" lang="de" data-hotkey="shift+alt"><!--<![endif]-->
+		
+					<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="mobile-web-app-capable" content="yes" /><link rel="manifest" type="application/manifest+json" crossorigin="use-credentials" href="/qisserver/manifest.json" data-context-path="https://mycampus.hswt.de:443/qisserver" /><script type="text/javascript" src="/qisserver/javax.faces.resource/sysout.js.faces?ln=js/cs/sys/sysoutjs&amp;v=4cab07c554ea21a1c57f2e251f78d276"></script>
+<link rel="alternate" type="application/rss+xml" title="HISLive" href="https://www.his.de/service/aktuelles/aktuelles-rss.html" />
+<link rel="shortcut icon" href="/HISinOne/images/logos/7310_favicon.ico?v=2" type="image/x-icon" /><link rel="apple-touch-icon" href="/HISinOne/images/logos/apple-touch-icon-180x180.png" /><link rel="apple-touch-icon" href="/HISinOne/images/logos/apple-touch-icon-180x180.png" sizes="180x180" /><meta name="msapplication-square70x70logo" content="/HISinOne/images/logos/touch_icon_windows_small.png" /><meta name="msapplication-square150x150logo" content="/HISinOne/images/logos/touch_icon_windows_medium.png" /><meta name="msapplication-wide310x150logo" content="/HISinOne/images/logos/touch_icon_windows_wide.png" /><meta name="msapplication-square310x310logo" content="/HISinOne/images/logos/touch_icon_windows.png" /><script type="text/javascript" src="/qisserver/javax.faces.resource/jquery/jquery.js.faces?ln=primefaces&amp;v=11.0.0&amp;v=4cab07c554ea21a1c57f2e251f78d276"></script><script type="text/javascript" src="/qisserver/javax.faces.resource/jquery/jquery-plugins.js.faces?ln=primefaces&amp;v=11.0.0&amp;v=4cab07c554ea21a1c57f2e251f78d276"></script><script type="text/javascript" src="/qisserver/javax.faces.resource/parsley.js.faces?ln=js/cs/sys/validation&amp;v=4cab07c554ea21a1c57f2e251f78d276"></script><script type="text/javascript" src="/qisserver/javax.faces.resource/device.min.js.faces?ln=bower_components/devicejs/lib&amp;v=4cab07c554ea21a1c57f2e251f78d276"></script><script type="text/javascript" src="/qisserver/javax.faces.resource/highlight.pack.js.faces?ln=js/extras/highlight&amp;v=4cab07c554ea21a1c57f2e251f78d276"></script><script type="text/javascript" src="/qisserver/javax.faces.resource/matchMedia.js.faces?ln=bower_components/matchMedia&amp;v=4cab07c554ea21a1c57f2e251f78d276"></script><!-- Generated by node KDV-H1-7310-P04 in cluster 7310PROD -->
+<title>MyCampus | HSWT -MyCampus | HSWT
+</title>
+<noscript><style>.wrapper{display:none !important;}</style></noscript><script type="text/javascript" src="/qisserver/javax.faces.resource/jsf.js.faces?ln=javax.faces&amp;v=4cab07c554ea21a1c57f2e251f78d276"></script><link rel="stylesheet" media="all" type="text/css" href="/qisserver/javax.faces.resource/hisinone-generated-v1497353903-k-731893421-part-0-h81598245.css.faces?ln=css/generated&amp;v=4cab07c554ea21a1c57f2e251f78d276" /><link rel="stylesheet" media="all" type="text/css" href="/qisserver/javax.faces.resource/hisinone-generated-v1497353903-k-731893421-part-1-h81598245.css.faces?ln=css/generated&amp;v=4cab07c554ea21a1c57f2e251f78d276" /><link rel="stylesheet" media="all" type="text/css" href="/qisserver/javax.faces.resource/hisinone-generated-v1497353903-k-731893421-part-2-h81598245.css.faces?ln=css/generated&amp;v=4cab07c554ea21a1c57f2e251f78d276" /><link rel="stylesheet" media="all" type="text/css" href="/qisserver/javax.faces.resource/hisinone-generated-v1497353903-k-731893421-part-3-h81598245.css.faces?ln=css/generated&amp;v=4cab07c554ea21a1c57f2e251f78d276" /><noscript><link rel="stylesheet" media="all" href="/qisserver/javax.faces.resource/hisinone-generated-v1497353903-k109690986-h1914253856.css.faces?ln=css/generated&amp;v=4cab07c554ea21a1c57f2e251f78d276" type="text/css" /></noscript></head><body onload="" style="visibility:hidden;" class="background_portal_hisinone                                                 notloggedin           notOnStartpage           currentDevice_desktop          originDevice_desktop                              CURRENT_ROLE_                   ALL_ROLES null">
+<noscript class="noscriptMessage" style="visibility:visible !important;"><div id="j_id_46" style="page-break-inside: avoid; break-inside: avoid;"><div class="warningtext"><img src="/HISinOne/images/icons/warning.svg" class="fieldsetMessageImage imagebottom" alt="" /><p><p>Bitte aktivieren Sie JavaScript in ihrem Browser, um diese Seite nutzen zu können.</p>
+
+<p>Eine Anleitung hierfür finden Sie auf den Webseiten Ihres Browserherstellers. To use this application, you must enable JavaScript. You find instructions about how to do this on the web page of your browser provider.</p></p><div class="clearer"></div><div class="fieldsetMessageText infoBox"></div></div></div>
+</noscript><form id="jsForm" name="jsForm" method="post" action="/qisserver/pages/cs/sys/error/error.faces" enctype="application/x-www-form-urlencoded"><input type="hidden" name="activePageElementId" value="" /><input type="hidden" name="refreshButtonClickedId" value="" /><input type="hidden" name="navigationPosition" value="" /><input type="hidden" name="authenticity_token" value="M5ILpFAu7LCFTpJpfEdyB93LiXWBVJJfXtHZi8OqhhQ=" />
+<input type="hidden" value="209085a7-18e1-4fc7-a455-56397d42fb9d" name="ajaxToken" id="ajaxToken" /><input type="hidden" value="Portlet verschieben" name="portalHelperDragAndDrop_Titel_Text" id="portalHelperDragAndDrop_Titel_Text" /><input type="hidden" value="Navigation einblenden" name="navieinblenden" id="navieinblenden" /><input type="hidden" name="jsForm_SUBMIT" value="1" /><input type="hidden" name="autoScroll" /><input type="hidden" name="javax.faces.ViewState" value="K0iECTSd7HZeaq2PglLYiwsFDAzCIOffa4989aN8CO16ygsq" autocomplete="off" /></form>
+<span id="top"></span><ol class="noDisplay" p:aria-hidden="true"><li><a data-shortcut="o" href="#navigationJump">Zur Seitennavigation (Tastenkombination SHIFT+ALT+ o)
+</a></li><li><a data-shortcut="i" href="#contentJump">Zum Seiteninhalt (Tastenkombination SHIFT+ALT + i)
+</a></li></ol><div id="wrapper_no_background" class=" wrapper">
+<form method="post" id="mobileLoginForm" name="mobileLoginForm" action="https://mycampus.hswt.de:443/qisserver/rds?state=user&amp;type=1&amp;category=auth.login" class="noDisplay formular full-screen-waiting-behavior" data-waiting-text="Authentifizierung wird durchgeführt und nutzerspezifische Einstellungen werden geladen. Bitte warten ..."><input type="hidden" name="userInfo" value="" /><input type="hidden" value="4bd65eb1-d001-4863-9cbe-e967866cb871" name="ajax-token" id="ajaxTokenMobile" /><label for="loginName">Benutzerkennung</label><input id="loginName" name="asdf" value="" class="input_login_hisinone" type="text" autocomplete="username" required="required" autocapitalize="none" /><label for="loginPassword">Passwort</label><input id="loginPassword" name="fdsa" value="" class="input_login_hisinone" type="password" autocomplete="current-password" required="required" autocapitalize="none" /><button id="showPassword" name="showPassword" type="button" title="Passwort anzeigen" class="submit_image" aria-label="Passwort anzeigen"><img alt="Passwort anzeigen" src="/HISinOne/images/icons/eye.svg" aria-label="Passwort anzeigen" /></button>
+<label for="mobileLoginCheckboxElement" class="noDisplay" p:aria-hidden="true">Angemeldet bleiben</label><input id="mobileLoginCheckboxElement" type="checkbox" name="mobileLoginCheckboxElement" value="true" class="mobileLoginCheckboxElement" />
+</form><div id="hisinoneHeader" class="" role="banner"><div class="divHeader"><div id="logoAndServicesHeader" class="gridWrap gridHeader" style="grid-template-areas:'grid1 grid1 grid3 grid3 grid3' 'grid6 grid6 grid6 grid6 grid6'">
+<div class="gridElement" id="gridElement_1">
+<a id="navigationJump" class="visibilityOnlyForScreenreader">Navigation</a><button id="widgetRender:5:mobileOnlyNavBar" name="widgetRender:5:mobileOnlyNavBar" type="button" title="Menü aufklappen" class="iconfont-mobile_nav submit_image mobileOnly navbar-toggle" aria-expanded="false" data-titletoggle="Menü schließen" aria-label="Menü aufklappen"></button>
+<div id="topMenuContainerId" class="topMenuContainer topMenu_notStartPage" role="navigation">
+<ul class="nav"><!-- last modification of the 'navigation menu' on Sat Oct 03 06:04:28 CEST 2026 --><li class="topMenuList link_homepage"><a href="/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?navigationPosition=link_homepage&amp;recordRequest=true" id="widgetRender:5:burgerNavi:0:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="Startseite, Übersicht, Login, Portal">Startseite</a></li><li class="topMenuList parentListItem hisinoneapp_studi_no_login"><a href="/qisserver/pages/cs/sys/portal/subMenu.faces?navigationPosition=hisinoneapp_studi_no_login" id="widgetRender:5:burgerNavi:1:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="">Bewerbung<span class="unsichtbar" data-keywords="">Zur nächsten Navigationsebene</span><span class="iconfont-resultset_next menuLeftIconNext" aria-hidden="true" data-keywords=""></span></a><ul id="navitem_1_0" class="flexdropdownmenu"><li class="mobileOnly"><a href="javascript:void(0);" class="backButton"><span class="unsichtbar">Zurück zu</span>Hauptmenü</a><li class="navitem-headline"><a href="/qisserver/pages/cs/sys/portal/subMenu.faces?navigationPosition=hisinoneapp_studi_no_login" id="widgetRender:5:burgerNavi:1:headerLink_1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" data-keywords="">Bewerbung</a></li><li class=" selfRegistration"><a href="/qisserver/pages/psv/selbstregistrierung/pub/selbstregistrierung.xhtml?_flowId=selfRegistrationRegister-flow&amp;navigationPosition=hisinoneapp_studi_no_login%2CselfRegistration&amp;recordRequest=true" id="widgetRender:5:burgerNavi:1:0:link2" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="subMenuLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="">Registrierung</a></li><li class=" mailVerification"><a href="/qisserver/pages/psv/selbstregistrierung/pub/mailverifizierung.xhtml?_flowId=selfRegistrationVerification-flow&amp;navigationPosition=hisinoneapp_studi_no_login%2CmailVerification&amp;recordRequest=true" id="widgetRender:5:burgerNavi:1:1:link2" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="subMenuLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="">E-Mail-Verifikation</a></li></ul></li><li class="topMenuList parentListItem studiesOffered"><a href="/qisserver/pages/cs/sys/portal/subMenu.faces?navigationPosition=studiesOffered" id="widgetRender:5:burgerNavi:2:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="">Studienangebot<span class="unsichtbar" data-keywords="">Zur nächsten Navigationsebene</span><span class="iconfont-resultset_next menuLeftIconNext" aria-hidden="true" data-keywords=""></span></a><ul id="navitem_2_0" class="flexdropdownmenu"><li class="mobileOnly"><a href="javascript:void(0);" class="backButton"><span class="unsichtbar">Zurück zu</span>Hauptmenü</a><li class="navitem-headline"><a href="/qisserver/pages/cs/sys/portal/subMenu.faces?navigationPosition=studiesOffered" id="widgetRender:5:burgerNavi:2:headerLink_1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" data-keywords="">Studienangebot</a></li><li class=" searchSpecialEvents"><a href="/qisserver/pages/startFlow.xhtml?_flowId=searchSpecialEventsOnlyDetails-flow&amp;navigationPosition=studiesOffered%2CsearchSpecialEvents&amp;recordRequest=true" id="widgetRender:5:burgerNavi:2:0:link2" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="subMenuLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="">Sonderveranstaltung suchen</a></li></ul></li><li class="topMenuList parentListItem userinformation"><a href="/qisserver/pages/cs/sys/portal/subMenu.faces?navigationPosition=userinformation" id="widgetRender:5:burgerNavi:3:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="">Service<span class="unsichtbar" data-keywords="">Zur nächsten Navigationsebene</span><span class="iconfont-resultset_next menuLeftIconNext" aria-hidden="true" data-keywords=""></span></a><ul id="navitem_3_0" class="flexdropdownmenu"><li class="mobileOnly"><a href="javascript:void(0);" class="backButton"><span class="unsichtbar">Zurück zu</span>Hauptmenü</a><li class="navitem-headline"><a href="/qisserver/pages/cs/sys/portal/subMenu.faces?navigationPosition=userinformation" id="widgetRender:5:burgerNavi:3:headerLink_1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" data-keywords="">Service</a></li><li class=" link_accessibilityHelp"><a href="/qisserver/pages/cs/sys/portal/utilities/accessibilityHelp.faces?navigationPosition=userinformation%2Clink_accessibilityHelp&amp;recordRequest=true" id="widgetRender:5:burgerNavi:3:0:link2" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="subMenuLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="Barrierefreiheit">Information zur barrierefreien Bedienung</a></li></ul></li><li class="topMenuList switchToEnglish"><a href="/qisserver/rds?state=user&amp;type=5&amp;language=en&amp;navigationPosition=switchToEnglish&amp;recordRequest=true" id="widgetRender:5:burgerNavi:4:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="Sprachwechsel, Sprache umschalten">English</a></li><li class="topMenuList link_impressum"><a href="/qisserver/pages/cs/sys/portal/imprint/imprint.faces?navigationPosition=link_impressum&amp;recordRequest=true" id="widgetRender:5:burgerNavi:5:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="Impressum, Verantwortlich, Kontakt, Adresse">Datenschutz &amp; Impressum</a></li><li class="topMenuList link_privacy"><a href="/qisserver/pages/cs/sys/portal/imprint/privacy.faces?navigationPosition=link_privacy&amp;recordRequest=true" id="widgetRender:5:burgerNavi:6:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="Datenschutz">Datenschutz</a></li><li class="topMenuList link_accessibilityStatement"><a href="/qisserver/pages/cs/sys/portal/utilities/accessibilityStatement.faces?navigationPosition=link_accessibilityStatement&amp;recordRequest=true" id="widgetRender:5:burgerNavi:7:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="Erklärung Barrierefreiheit">Erklärung zur Barrierefreiheit</a></li><li class="topMenuList link_easyLanguageHelp"><a href="/qisserver/pages/cs/sys/portal/utilities/easyLanguageHelp.faces?navigationPosition=link_easyLanguageHelp&amp;recordRequest=true" id="widgetRender:5:burgerNavi:8:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="">Leichte Sprache</a></li><li class="topMenuList link_signLanguageHelp"><a href="/qisserver/pages/cs/sys/portal/utilities/signLanguageHelp.faces?navigationPosition=link_signLanguageHelp&amp;recordRequest=true" id="widgetRender:5:burgerNavi:9:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="">Gebärdensprache</a></li><li class="topMenuList link_sitemap"><a href="/qisserver/pages/cs/sys/portal/sitemap/sitemap.faces?navigationPosition=link_sitemap&amp;recordRequest=true" id="widgetRender:5:burgerNavi:10:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="Übersicht der Anwendung">Übersicht der Anwendung</a></li>
+</ul><button id="widgetRender:5:j_id_4n_a_3_2_8" name="widgetRender:5:j_id_4n_a_3_2_8" type="submit" value="Schließen [ESC]" class="closeButtonNavigationESC"><span>Schließen [ESC]</span></button>
+</div><a href="/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces" id="widgetRender:6:homeIcon" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" class="iconfont-house homeIconlink" aria-label="Startseite" title="Startseite"></a>
+<div class="draggableEl" id="hisinoneLogo_DragID" data-id="6"><a href="/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces" id="widgetRender:8:logoLink" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" class="logoLink" aria-label="Hochschule Weihenstephan-Triesdorf" title="Hochschule Weihenstephan-Triesdorf"><img src="/HISinOne/images/logos/7310_Logo.png" role="img" alt="Hochschule Weihenstephan-Triesdorf" class="logoPortal" /></a>
+</div>
+</div>
+<div class="gridElement" id="gridElement_2">
+</div>
+<div class="gridElement" id="gridElement_3">
+<div class="loginLink" id="loginLinkElement"><a href="#" role="button" class="loginToggle link_button_highlighted" aria-pressed="false">
+Zur Anmeldung
+</a></div>
+<div class="loginStartPage">
+<form method="post" id="loginForm" name="loginform" action="https://mycampus.hswt.de:443/qisserver/rds?state=user&amp;type=1&amp;category=auth.login" class="formular full-screen-waiting-behavior " data-waiting-text="Authentifizierung wird durchgeführt und nutzerspezifische Einstellungen werden geladen. Bitte warten ..."><input type="hidden" id="user-info" name="userInfo" value="" /><input type="hidden" value="4bd65eb1-d001-4863-9cbe-e967866cb871" name="ajax-token" /><div class="accountPasswordContainer"><div class="accountContainer">
+<label for="asdf" class="accountLabel">Benutzerkennung</label><input id="asdf" name="asdf" value="" data-shortcut="a" class="input_login_hisinone" type="text" autocomplete="username" autocapitalize="none" required="required" /></div><div class="passwordContainer">
+<label for="fdsa" class="passwordLabel">Passwort</label><div class="showPasswordContainer">
+<input id="fdsa" name="fdsa" value="" class="input_login_hisinone" type="password" autocomplete="current-password" required="required" autocapitalize="none" /><div id="capsLockWarning"><div id="widgetRender:10:popUpCapsLockWarning" class="displayInline popupDismissable"><button id="widgetRender:10:popUpCapsLockWarning:showPopup" name="widgetRender:10:popUpCapsLockWarning:showPopup" type="button" class="submit_image noDisplay no-waiting-behavior" title="Hinweis:" data-popupButton="true" aria-label="Hinweis:"><img alt="Hinweis:" src="/HISinOne/images/icons/warning.svg" /></button><div id="widgetRender:10:popUpCapsLockWarning:popupPlaceholder" class="popoverContainer" style="position:absolute;display:none;max-width:100%;" role="dialog"><div class="fullPopupContainer"><a id="widgetRender:10:popUpCapsLockWarning:backgroundClose" href="#" class="popupBackground" aria-hidden="true" tabindex="-1"></a></div><div class="popupContainer" style="position:absolute;"><span class="focusTrapFirst"></span><div id="widgetRender:10:popUpCapsLockWarning:movePopup"><h3 class="mouseMoveTitle" id="widgetRender:10:popUpCapsLockWarning:popupTitleId"><span class=" mouseMove" title="Element verschieben">Hinweis:</span></h3></div><div class="box_content ">Ihre Feststelltaste ist aktiv.</div><div class="buttons_horizontal_dotted_line_above"><button id="widgetRender:10:popUpCapsLockWarning:hidePopup" name="widgetRender:10:popUpCapsLockWarning:hidePopup" type="button" value="Schließen" class="submit simple-close-button-behavior"><span>Schließen</span></button></div><span class="focusTrapEnd" tabindex="0"></span></div></div></div>
+</div><button id="widgetRender:10:showPassword" name="widgetRender:10:showPassword" type="button" title="Passwort anzeigen" class="iconfont-eye submit_image showPasswordElement" aria-label="Passwort anzeigen"></button></div></div><div class="autoLoginCheckButton"><div class="displayflex"></div>
+<button id="loginForm:login" class="submit_login" name="submit" type="submit"><span>Anmelden</span></button></div></div>
+</form><a href="/qisserver/pages/cs/psv/account/passwortreset/firstpagePasswortReset.xhtml?_flowId=passwordreset-flow&amp;navigationPosition=functions" id="widgetRender:10:newPassword" class="newPassword">Zugangsdaten vergessen?</a>
+</div><div class="services"><form id="widgetRender:12:collapsibleHeaderActionFrom" name="widgetRender:12:collapsibleHeaderActionFrom" method="post" action="/qisserver/pages/cs/sys/error/error.faces" enctype="application/x-www-form-urlencoded"><input type="hidden" name="activePageElementId" value="" /><input type="hidden" name="refreshButtonClickedId" value="" /><input type="hidden" name="navigationPosition" value="" /><input type="hidden" name="authenticity_token" value="M5ILpFAu7LCFTpJpfEdyB93LiXWBVJJfXtHZi8OqhhQ=" />
+<ul class="sList">
+</ul><input type="hidden" name="widgetRender:12:collapsibleHeaderActionFrom_SUBMIT" value="1" /><input type="hidden" name="autoScroll" /><input type="hidden" name="javax.faces.ViewState" value="K0iECTSd7HZeaq2PglLYiwsFDAzCIOffa4989aN8CO16ygsq" autocomplete="off" /></form></div>
+</div>
+<div class="gridElement" id="gridElement_4">
+</div>
+<div class="gridElement" id="gridElement_5">
+</div>
+<div class="gridElement" id="gridElement_6">
+</div>
+<div class="gridElement" id="gridElement_7">
+</div>
+<div class="gridElement" id="gridElement_8">
+</div>
+<div class="gridElement" id="gridElement_9">
+</div>
+<div class="gridElement" id="gridElement_10">
+</div></div>
+<div class="navbandWrap"><div class="toggleNavigation iconfont-arrow_up_v " title="Navigation zu- und aufklappen" tabindex="0" role="button"><span class="visibilityOnlyForScreenreader">Navigation zu- und aufklappen</span></div><span class="navbandLeft navbandArrow"><span class="iconfont-resultset_previous"></span></span><ul class="navband nav"><!-- last modification of the 'navigation menu' on Sat Oct 03 06:04:28 CEST 2026 --><li class="topMenuList link_homepage"><a href="/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?navigationPosition=link_homepage&amp;recordRequest=true" id="widgetRender:5:burgerNavi:0:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="Startseite, Übersicht, Login, Portal">Startseite</a></li><li class="topMenuList parentListItem hisinoneapp_studi_no_login"><a href="/qisserver/pages/cs/sys/portal/subMenu.faces?navigationPosition=hisinoneapp_studi_no_login" id="widgetRender:5:burgerNavi:1:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="">Bewerbung<span class="unsichtbar" data-keywords="">Zur nächsten Navigationsebene</span><span class="iconfont-resultset_next menuLeftIconNext" aria-hidden="true" data-keywords=""></span></a><ul id="navitem_1_0" class="flexdropdownmenu"><li class="mobileOnly"><a href="javascript:void(0);" class="backButton"><span class="unsichtbar">Zurück zu</span>Hauptmenü</a><li class="navitem-headline"><a href="/qisserver/pages/cs/sys/portal/subMenu.faces?navigationPosition=hisinoneapp_studi_no_login" id="widgetRender:5:burgerNavi:1:headerLink_1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" data-keywords="">Bewerbung</a></li><li class=" selfRegistration"><a href="/qisserver/pages/psv/selbstregistrierung/pub/selbstregistrierung.xhtml?_flowId=selfRegistrationRegister-flow&amp;navigationPosition=hisinoneapp_studi_no_login%2CselfRegistration&amp;recordRequest=true" id="widgetRender:5:burgerNavi:1:0:link2" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="subMenuLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="">Registrierung</a></li><li class=" mailVerification"><a href="/qisserver/pages/psv/selbstregistrierung/pub/mailverifizierung.xhtml?_flowId=selfRegistrationVerification-flow&amp;navigationPosition=hisinoneapp_studi_no_login%2CmailVerification&amp;recordRequest=true" id="widgetRender:5:burgerNavi:1:1:link2" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="subMenuLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="">E-Mail-Verifikation</a></li></ul></li><li class="topMenuList parentListItem studiesOffered"><a href="/qisserver/pages/cs/sys/portal/subMenu.faces?navigationPosition=studiesOffered" id="widgetRender:5:burgerNavi:2:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="">Studienangebot<span class="unsichtbar" data-keywords="">Zur nächsten Navigationsebene</span><span class="iconfont-resultset_next menuLeftIconNext" aria-hidden="true" data-keywords=""></span></a><ul id="navitem_2_0" class="flexdropdownmenu"><li class="mobileOnly"><a href="javascript:void(0);" class="backButton"><span class="unsichtbar">Zurück zu</span>Hauptmenü</a><li class="navitem-headline"><a href="/qisserver/pages/cs/sys/portal/subMenu.faces?navigationPosition=studiesOffered" id="widgetRender:5:burgerNavi:2:headerLink_1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" data-keywords="">Studienangebot</a></li><li class=" searchSpecialEvents"><a href="/qisserver/pages/startFlow.xhtml?_flowId=searchSpecialEventsOnlyDetails-flow&amp;navigationPosition=studiesOffered%2CsearchSpecialEvents&amp;recordRequest=true" id="widgetRender:5:burgerNavi:2:0:link2" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="subMenuLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="">Sonderveranstaltung suchen</a></li></ul></li><li class="topMenuList parentListItem userinformation"><a href="/qisserver/pages/cs/sys/portal/subMenu.faces?navigationPosition=userinformation" id="widgetRender:5:burgerNavi:3:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="">Service<span class="unsichtbar" data-keywords="">Zur nächsten Navigationsebene</span><span class="iconfont-resultset_next menuLeftIconNext" aria-hidden="true" data-keywords=""></span></a><ul id="navitem_3_0" class="flexdropdownmenu"><li class="mobileOnly"><a href="javascript:void(0);" class="backButton"><span class="unsichtbar">Zurück zu</span>Hauptmenü</a><li class="navitem-headline"><a href="/qisserver/pages/cs/sys/portal/subMenu.faces?navigationPosition=userinformation" id="widgetRender:5:burgerNavi:3:headerLink_1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" data-keywords="">Service</a></li><li class=" link_accessibilityHelp"><a href="/qisserver/pages/cs/sys/portal/utilities/accessibilityHelp.faces?navigationPosition=userinformation%2Clink_accessibilityHelp&amp;recordRequest=true" id="widgetRender:5:burgerNavi:3:0:link2" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="subMenuLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="Barrierefreiheit">Information zur barrierefreien Bedienung</a></li></ul></li><li class="topMenuList switchToEnglish"><a href="/qisserver/rds?state=user&amp;type=5&amp;language=en&amp;navigationPosition=switchToEnglish&amp;recordRequest=true" id="widgetRender:5:burgerNavi:4:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="Sprachwechsel, Sprache umschalten">English</a></li><li class="topMenuList link_impressum"><a href="/qisserver/pages/cs/sys/portal/imprint/imprint.faces?navigationPosition=link_impressum&amp;recordRequest=true" id="widgetRender:5:burgerNavi:5:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="Impressum, Verantwortlich, Kontakt, Adresse">Datenschutz &amp; Impressum</a></li><li class="topMenuList link_privacy"><a href="/qisserver/pages/cs/sys/portal/imprint/privacy.faces?navigationPosition=link_privacy&amp;recordRequest=true" id="widgetRender:5:burgerNavi:6:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="Datenschutz">Datenschutz</a></li><li class="topMenuList link_accessibilityStatement"><a href="/qisserver/pages/cs/sys/portal/utilities/accessibilityStatement.faces?navigationPosition=link_accessibilityStatement&amp;recordRequest=true" id="widgetRender:5:burgerNavi:7:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="Erklärung Barrierefreiheit">Erklärung zur Barrierefreiheit</a></li><li class="topMenuList link_easyLanguageHelp"><a href="/qisserver/pages/cs/sys/portal/utilities/easyLanguageHelp.faces?navigationPosition=link_easyLanguageHelp&amp;recordRequest=true" id="widgetRender:5:burgerNavi:8:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="">Leichte Sprache</a></li><li class="topMenuList link_signLanguageHelp"><a href="/qisserver/pages/cs/sys/portal/utilities/signLanguageHelp.faces?navigationPosition=link_signLanguageHelp&amp;recordRequest=true" id="widgetRender:5:burgerNavi:9:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="">Gebärdensprache</a></li><li class="topMenuList link_sitemap"><a href="/qisserver/pages/cs/sys/portal/sitemap/sitemap.faces?navigationPosition=link_sitemap&amp;recordRequest=true" id="widgetRender:5:burgerNavi:10:notSelectedLink1" onclick="de.his.modules.angularHelper.deleteAngularSessionStorageKeys();" target="_self" class="topMenuLink mainnavLink link_simple flexdropdownmenu capitalizeFirstLetter" data-keywords="Übersicht der Anwendung">Übersicht der Anwendung</a></li>
+</ul><span class="navbandRight navbandArrow"><span class="iconfont-resultset_next"></span></span></div></div></div><div class="his_main_content content_portal_hisinone " style="" role="main">
+<div class="content_navi_on    content_max_navi_off">
+<div id="contentFramePortalNew"><div id="contentFrame">
+<div class="contentFrameInnerWrap"><form id="linkTargetAsOverlayForm" name="linkTargetAsOverlayForm" method="post" action="/qisserver/pages/cs/sys/error/error.faces" class="noDisplay" enctype="application/x-www-form-urlencoded" aria-hidden="true"><input type="hidden" name="activePageElementId" value="" /><input type="hidden" name="refreshButtonClickedId" value="" /><input type="hidden" name="navigationPosition" value="" /><input type="hidden" name="authenticity_token" value="M5ILpFAu7LCFTpJpfEdyB93LiXWBVJJfXtHZi8OqhhQ=" />
+<input type="hidden" value="#" name="linkTargetAsOverlaySrc" id="linkTargetAsOverlaySrc" />
+<div class="displayInline"><button id="linkTargetAsOverlayForm:linkTargetAsOverlayPlaceholder:overlayShowButton" name="linkTargetAsOverlayForm:linkTargetAsOverlayPlaceholder:overlayShowButton" type="submit" value="Open" onclick="jsf.util.chain(this, event,'jsf.ajax.request(this,event,{execute:\'@this \',render:\'linkTargetAsOverlayForm:linkTargetAsOverlayPlaceholder:overlayPlaceholder \',onerror:de.his.ajax.Refresher.onError,onevent:de.his.ajax.Refresher.onEvent,\'DISABLE_VALIDATION\':\'false\',\'javax.faces.behavior.event\':\'action\'})', 'if(typeof window.getScrolling!=\'undefined\'){myfaces.oam.setHiddenInput(\'linkTargetAsOverlayForm\',\'autoScroll\',getScrolling());}'); return false;" aria-label="" class="noDisplay overlayShowButton short-waiting-behavior submit" aria-hidden="true"><span aria-hidden="true">Open</span></button><input type="hidden" name="autoScroll" />
+</div>
+<div id="linkTargetAsOverlayForm:linkTargetAsOverlayPlaceholder" class="displayInlineBlock"><div id="linkTargetAsOverlayForm:linkTargetAsOverlayPlaceholder:overlayPlaceholder" class="">
+<span id="linkTargetAsOverlayForm:linkTargetAsOverlayPlaceholder:dataholder"></span></div>
+</div><input type="hidden" name="linkTargetAsOverlayForm_SUBMIT" value="1" /><input type="hidden" name="javax.faces.ViewState" value="K0iECTSd7HZeaq2PglLYiwsFDAzCIOffa4989aN8CO16ygsq" autocomplete="off" /></form>
+<div id="contentJump" class="visibilityOnlyForScreenreader">Inhalt</div>
+<h1 id="hisinoneTitle" class="hisinoneTitleStyle">MyCampus | HSWT 
+</h1>
+<div class="clearer"></div><form id="hisRelocationContainer" name="hisRelocationContainer" method="post" action="/qisserver/pages/cs/sys/error/error.faces" enctype="application/x-www-form-urlencoded" aria-hidden="true"><input type="hidden" name="activePageElementId" value="" /><input type="hidden" name="refreshButtonClickedId" value="" /><input type="hidden" name="navigationPosition" value="" /><input type="hidden" name="authenticity_token" value="M5ILpFAu7LCFTpJpfEdyB93LiXWBVJJfXtHZi8OqhhQ=" /><input type="hidden" name="hisRelocationContainer_SUBMIT" value="1" /><input type="hidden" name="autoScroll" /><input type="hidden" name="javax.faces.ViewState" value="K0iECTSd7HZeaq2PglLYiwsFDAzCIOffa4989aN8CO16ygsq" autocomplete="off" /></form>
+<div class="columnfullSize"><div id="errorMessage" style="break-inside: avoid;"><div class="box_noheader_bg_white"><div class="box_content"><fieldset id="errorMessage:errorMessage_innerFieldset" class="fieldsetNoBorder" role="presentation">
+<h1 class="serverError bigFatError"><img src="/HISinOne/images/icons/error.svg" role="img" alt="" class="imagebottom" />Interner Server-Fehler
+</h1>					Generiert vom Knoten KDV-H1-7310-P04 im Cluster 7310PROD.                       <br />                   Zeitpunkt: 3. Oktober 2026 06:04:28 MESZ				<br /><br />Bitte wenden Sie sich mit einer möglichst genauen Beschreibung, wie Sie diesen Fehler gefunden haben, an 
+<a href="mailto:campus@hswt.de?subject=-1%20Interner Server-Fehler&amp;body=Generiert vom Knoten KDV-H1-7310-P04 im Cluster 7310PROD.%0A%20Zeitpunkt: 3. Oktober 2026 06:04:28 MESZ%0A%20URL%3A%20https%3A%2F%2Fmycampus.hswt.de%3A443">campus@hswt.de</a>.
+
+<div class="clearer"></div><div id="stage"><div id="block"></div></div><div class="clearer"></div>Weitere Informationen befinden sich in der Logdatei des Servers.</fieldset></div></div></div>
+<div class="clearer"></div><h1>
+</h1></div>
+</div></div>
+</div><div id="clearer" class="clearerSpaceAboveHalfEm"></div>
+</div></div><div id="hisinoneFooter" class="divfoot_portal_hisinone" role="contentinfo"><div class="divfoot_navigation_portal"><form id="devices" name="devices" method="post" action="/qisserver/pages/cs/sys/error/error.faces" class="devices" enctype="application/x-www-form-urlencoded"><input type="hidden" name="activePageElementId" value="" /><input type="hidden" name="refreshButtonClickedId" value="" /><input type="hidden" name="navigationPosition" value="" /><input type="hidden" name="authenticity_token" value="M5ILpFAu7LCFTpJpfEdyB93LiXWBVJJfXtHZi8OqhhQ=" /><input type="hidden" name="devices_SUBMIT" value="1" /><input type="hidden" name="autoScroll" /><input type="hidden" name="javax.faces.ViewState" value="K0iECTSd7HZeaq2PglLYiwsFDAzCIOffa4989aN8CO16ygsq" autocomplete="off" /></form>
+<div class="columnOneThirdLeft_1024 minWidthNone langSelect"></div>
+<div class="columnOneThirdLeft_1024 minWidthNone"><div class="productLogo"><span id="product_logo" title="© HISinOne ist ein Produkt der HIS eG" class="iconfont-Logo-HISinOne1 productLogoStyle"> </span>
+</div></div>
+<div class="columnOneThirdRight_1024 minWidthNone"><div class="langSelect"><form id="langselectboxForm" name="langselectboxForm" method="post" action="/qisserver/pages/cs/sys/error/error.faces" enctype="application/x-www-form-urlencoded"><input type="hidden" name="activePageElementId" value="" /><input type="hidden" name="refreshButtonClickedId" value="" /><input type="hidden" name="navigationPosition" value="" /><input type="hidden" name="authenticity_token" value="M5ILpFAu7LCFTpJpfEdyB93LiXWBVJJfXtHZi8OqhhQ=" /><div class="labelTopBlock"><label for="langselectboxForm:languageSelect:langselectbox" id="langselectboxForm:languageSelect:langselectboxPanel_PLAM_LABEL" class=" form-label">Standardsprache</label><select id="langselectboxForm:languageSelect:langselectbox" name="langselectboxForm:languageSelect:langselectbox" size="1" onkeydown="/*START*/ return de.his.modules.InputRefresh.inputRadioKeydown(event, this, 'langselectboxForm:languageSelect:selectLanguage'); /*END*/" onclick="/*START*/ return de.his.modules.InputRefresh.radioBtnClick(event, this, 'langselectboxForm:languageSelect:selectLanguage'); /*END*/" class="langSelector language_de" onchange="/*START*/ de.his.modules.InputRefresh.refreshBtnClick(event, this, 'langselectboxForm:languageSelect:selectLanguage'); /*END*/">	<option value="de" selected="selected" title="Deutsch">Deutsch</option>	<option value="en" title="English">English</option></select><button id="langselectboxForm:languageSelect:selectLanguage" name="langselectboxForm:languageSelect:selectLanguage" type="submit" onclick="jsf.util.chain(this, event,'/*START*/ if(!de.his.modules.InputRefresh.checkBtnAlreadyClicked(event, this, \'langselectboxForm:languageSelect:selectLanguage\')) return false; /*END*/;', 'jsf.ajax.request(this,event,{execute:\'@form \',render:\'@form \',onerror:de.his.ajax.Refresher.onError,onevent:de.his.ajax.Refresher.onEvent,\'DISABLE_VALIDATION\':\'true\',\'javax.faces.behavior.event\':\'action\'})', 'if(typeof window.getScrolling!=\'undefined\'){myfaces.oam.setHiddenInput(\'langselectboxForm\',\'autoScroll\',getScrolling());}'); return false;" aria-label="aktualisieren" title="aktualisieren" class="refreshButtonNoDisplay short-waiting-behavior submit_image immediate" tabindex="-1" aria-hidden="true"><img alt="aktualisieren" src="/HISinOne/images/icons/arrow_refresh.svg" /></button><input type="hidden" name="autoScroll" /></div><input type="hidden" name="langselectboxForm_SUBMIT" value="1" /><input type="hidden" name="javax.faces.ViewState" value="K0iECTSd7HZeaq2PglLYiwsFDAzCIOffa4989aN8CO16ygsq" autocomplete="off" /></form>
+</div></div><div class="clearer"></div><div class="footerLinks"><a href="/qisserver/pages/cs/sys/portal/imprint/imprint.faces" id="imprint" class="sLink imprintLink">Datenschutz & Impressum</a><span title=" " class="iconfont-hyphen_height_16 hyphen imagebottom"></span><a href="/qisserver/pages/cs/sys/portal/utilities/accessibilityHelp.faces" id="accessibilityHelp" class="sLink">Information zur barrierefreien Bedienung</a><span title=" " class="iconfont-hyphen_height_16 hyphen imagebottom"></span><span class="sLink">© HISinOne ist ein Produkt der HIS eG</span><span style="float:right;"></span>
+</div></div></div>
+<div class=" iframeProductInformation"><span class="sLink">© HISinOne ist ein Produkt der HIS eG</span>
+</div>
+</div>
+<img src="/h1admin/logout" height="0" width="0" alt="" class="noDisplay" p:aria-hidden="true" />
+<img src="/superx/servlet/SuperXmlAbmeldung" alt="" width="0" height="0" class="noDisplay" p:aria-hidden="true" />
+<div id="pwaInstallContainer" style="display:none;"><button id="pwaInstallBtn"><img src="/HISinOne/images/logos/touch_icon_android.png" alt="" /> HISinOne als App installieren</button><button id="dismissPwaInstallBtn" title="Installationsbutton für 30 Tage ausblenden" class="iconfont-panel_close" aria-label="Installationsbutton für 30 Tage ausblenden"></button></div>
+<span id="contextInformation" class="noDisplay" aria-hidden="true" data-jsconsole-loglevel="LOG" data-host="https://mycampus.hswt.de:443" data-user-logged-in="false" data-autologin-allowed="false" data-untrusted-host="https://hisinone-7310-p-ut.kdv-fh-bayern.de" data-context-path="/qisserver" data-complete-path="/qisserver/pages/cs/sys/error/" data-global-session-refresh-allowed="true" data-global-session-timeout="1800" data-global-refresh-session="false" data-local-weather-only-plz="" data-active-page-element-id="" data-refresh-button-clicked="false" data-is-edit-ui-texts="false"></span><script type="text/javascript">function getScrolling(){var x = 0; var y = 0;if (self.pageXOffset || self.pageYOffset){x = self.pageXOffset;y = self.pageYOffset;} else if ((document.documentElement && document.documentElement.scrollLeft)||(document.documentElement && document.documentElement.scrollTop)){x = document.documentElement.scrollLeft;y = document.documentElement.scrollTop;} else if (document.body) {x = document.body.scrollLeft;y = document.body.scrollTop;}return x + "," + y;}</script><script type="text/javascript">function getScrolling(){var x = 0; var y = 0;if (self.pageXOffset || self.pageYOffset){x = self.pageXOffset;y = self.pageYOffset;} else if ((document.documentElement && document.documentElement.scrollLeft)||(document.documentElement && document.documentElement.scrollTop)){x = document.documentElement.scrollLeft;y = document.documentElement.scrollTop;} else if (document.body) {x = document.body.scrollLeft;y = document.body.scrollTop;}return x + "," + y;}</script><script type="text/javascript" src="/qisserver/javax.faces.resource/hisinone-generated-v1497353903-k-285482064.js.faces?ln=js/generated&amp;v=4cab07c554ea21a1c57f2e251f78d276"></script><script type="text/javascript">(!window.myfaces) ? window.myfaces = {} : null;(!myfaces.core) ? myfaces.core = {} : null;(!myfaces.core.config) ? myfaces.core.config = {} : null;myfaces.core.config.autoScroll = true;</script></body></html>
+
 END:VCALENDAR
