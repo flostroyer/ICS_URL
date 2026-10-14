@@ -5,7 +5,6 @@ Behalten werden Termine, deren Notizen (DESCRIPTION) leer sind
 oder die Gruppe LP1 enthalten.
 
 Nutzung:
-    python3 ics_filter.py "https://uni.example/plan.ics" LP1 meine_gruppe.ics
     python3 ics_filter.py plan.ics LP1 meine_gruppe.ics
 """
 import re
